@@ -137,7 +137,9 @@ By combining time-series modeling with machine learning, the system provides a s
 
 ---
 
-## 👩‍💻 Author
-**Noura Faisal**  
+## 👥 Project Contributors
+This project was developed as a **collaborative academic team project**.  
+My contribution focused on data preprocessing, model building, and performance evaluation.
+
 Information Technology – Artificial Intelligence & Data Science  
 King Saud University
